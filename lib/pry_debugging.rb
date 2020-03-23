@@ -1,6 +1,6 @@
 require 'pry'
 def plus_two(num)
-	number == num + 2
-	number
+	num + 2
+	return num
 #binding.pry
 end
